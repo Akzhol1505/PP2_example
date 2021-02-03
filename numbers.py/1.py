@@ -1,6 +1,6 @@
 x=1 #int 
 y=2.8 #float
-z=1j #omplex
+z=1j #omplex 
 
 #convert from int to float
 a=float(x)
